@@ -1,0 +1,15 @@
+.:
+total 0
+drw-rw-r--. 2 admin admin 22 Dec 11 12:42 dir
+-rw-r-----. 1 admin admin  0 Dec 11 12:31 file
+-rw-rw-rw-. 1 admin admin  0 Dec 11 12:57 file3
+-rw-------. 1 admin admin  0 Dec 11 12:54 file4
+-rw-rw-rw-. 1 admin admin  0 Dec 11 13:33 lr
+drwxrwxr-x. 2 admin admin  6 Dec 11 12:31 test
+
+./dir:
+total 0
+-????????? ? ? ? ?            ? new_file
+
+./test:
+total 0
